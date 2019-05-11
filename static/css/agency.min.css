@@ -156,7 +156,7 @@ img::-moz-selection {
     #mainNav.navbar-shrink {
         padding-top: 0;
         padding-bottom: 0;
-        background-color: transp
+        background-color: #212529
     }
 
     #mainNav.navbar-shrink .navbar-brand {
